@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cumali Güzel
 - 👀 I’m interested in Mobil App Development
-- 🌱 I’m currently learning Flutter/Kotlin
+- 🌱 I’m currently learning Mobil App Development and Python
 - 💞️ I’m looking to collaborate on Create new mobil app
 - 📫 How to reach me  cumali.guzel@std.yeditepe.edu.tr
 
